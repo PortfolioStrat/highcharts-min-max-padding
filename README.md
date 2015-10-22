@@ -6,8 +6,6 @@ Highcharts extension that adds padding to the min-max axes scales.
 
 Handy Highcharts extension that wraps an existing chart with extra internal padding. 
 
-Compatible with Highcharts 4.1.7 and earlier.
-
 Consider the example below:
 
 **Original Chart**
@@ -21,6 +19,10 @@ Consider the example below:
 ## Usage/Demo
 
 Padding is specified as a percentage of the dataMin and dataMax axis values. Highcharts and jQuery have to be loaded before adding this extension. See working [plunker](http://plnkr.co/edit/06XGcU0Y9ESALbueCJOI?p=preview "Plunker Demo") for a live demo. You may adjust the padding by changing the variable *AutoMinMax.padding*.
+
+## Compatibility
+
+Compatible with Highcharts 4.1.7 and earlier.
 
 ## License
 
