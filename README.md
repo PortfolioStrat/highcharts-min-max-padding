@@ -10,11 +10,11 @@ Consider the example below:
 
 **Original Chart**
 
-![highcharts chart](/snapshots/original.png "Original Chart")
+![highcharts chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-min-max-padding/master/snapshots/original.png "Original Chart")
 
 **Extended Chart with padding enabled**
 
-![highcharts extended chart](/snapshots/extended.png "Extended Chart")
+![highcharts extended chart](https://raw.githubusercontent.com/PortfolioStrat/highcharts-min-max-padding/master/snapshots/extended.png "Extended Chart")
 
 ## Usage/Demo
 
